@@ -1,7 +1,7 @@
 {
   "name": "expenseapp2",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://malikabdullah33550.github.io/Expense_Tracking_App/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
